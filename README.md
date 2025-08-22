@@ -1,24 +1,16 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&color=0e75b6&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharun+C+R;I'm+a+Backend+Developer;specializing+in+Java+%26+Spring+Boot." alt="Typing SVG">
-  </a>
-</div>
+<h1 align="center">Tharun C R</h1>
+<h3 align="center">Java 17 Backend Developer | Spring Boot & RESTful APIs</h3>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-I'm a passionate **Backend Developer** with strong expertise in **Java 17** and the **Spring Boot** ecosystem. I specialize in designing and building scalable, high-performance **RESTful APIs** and **microservices**, while following best practices like the **SOLID principles** and **Clean Architecture**.
-
-- Currently working on **real-time RESTful APIs** using **Java 17**, **Spring Boot**, and **Spring Security**  
-- Focused on building **scalable endpoints**, handling **concurrent requests**, and ensuring **secure communication**  
-- Dedicated to writing **clean, maintainable code** with proper testing and exception handling  
+I am a backend developer specializing in the **Java & Spring Boot** ecosystem, with deep expertise in **Java 17**. My focus is on engineering high-performance, scalable, and secure **RESTful APIs** and **microservices**. I am committed to writing clean, maintainable code by applying **SOLID principles** and **Clean Architecture**, ensuring robust solutions through comprehensive testing and exception handling.
 
 ---
 
-### Languages and Tools
+### 🛠️ Tech Stack
 
-#### Programming & Frameworks
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java 17" width="40" height="40"/>
@@ -29,10 +21,6 @@ I'm a passionate **Backend Developer** with strong expertise in **Java 17** and 
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
   </a>
-</p>
-
-#### Databases & Version Control
-<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -42,10 +30,6 @@ I'm a passionate **Backend Developer** with strong expertise in **Java 17** and 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>
   </a>
-</p>
-
-#### Tools & Technologies
-<p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
   </a>
@@ -59,27 +43,10 @@ I'm a passionate **Backend Developer** with strong expertise in **Java 17** and 
 
 ---
 
-### My Projects
+### 🚀 Projects
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="left">
-        <a href="https://github.com/TharunCR/Vivanza.git">Vivanza - Event Management System</a>
-      </h3>
-      <p>
-        A comprehensive Spring Boot application for managing events. It features secure, role-based access control using <strong>JWT and Spring Security</strong>. Users can perform full CRUD operations on events through a secure RESTful API. Key features include database migrations with <strong>Flyway</strong>, API documentation with <strong>Swagger UI</strong>, global exception handling, and robust unit testing with <strong>JUnit & Jacoco</strong>.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3 align="left">
-        <a href="https://github.com/TharunCR/Paycrest.git">Paycrest - Online Banking Application</a>
-      </h3>
-      <p>
-        A secure online banking application built with Spring Boot, adhering to <strong>Clean Architecture</strong> and <strong>SOLID principles</strong>. The system provides secure user authentication and authorization with <strong>Spring Security</strong>. Users can manage their accounts, view balances, and track transaction history. It ensures data consistency with <strong>@Transactional</strong> and uses <strong>Spring Data JPA/Hibernate</strong> for persistence, with password security handled by <strong>BCrypt</strong> hashing.
-      </p>
-    </td>
-  </tr>
-</table>
+### [Vivanza - Event Management System](https://github.com/TharunCR/Vivanza.git)
+A comprehensive Spring Boot application for managing events. It features secure, role-based access control using **JWT and Spring Security**. Users can perform full CRUD operations on events through a secure RESTful API. Key features include database migrations with **Flyway**, API documentation with **Swagger UI**, global exception handling, and robust unit testing with **JUnit & Jacoco**.
+
+### [Paycrest - Online Banking Application](https://github.com/TharunCR/Paycrest.git)
+A secure online banking application built with Spring Boot, adhering to **Clean Architecture** and **SOLID principles**. The system provides secure user authentication and authorization with **Spring Security**. Users can manage their accounts, view balances, and track transaction history. It ensures data consistency with **@Transactional** and uses **Spring Data JPA/Hibernate** for persistence, with password security handled by **BCrypt** hashing.
