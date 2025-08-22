@@ -4,12 +4,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/TharunCR">
-    <img src="https://komarev.com/ghpvc/?username=tharuncr&label=Profile%20views&color=0e75b6&style=flat-square" alt="tharuncr" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -65,7 +59,7 @@ I'm a passionate **Backend Developer** with a strong focus on modern **Java (up 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" width="40" height="40"/>
   </a>
 </p>
 
