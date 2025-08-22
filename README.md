@@ -6,17 +6,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I'm a passionate **Backend Developer** with a strong focus on modern **Java (up to version 17)** and the **Spring Boot** ecosystem. My expertise lies in designing and building scalable, high-performance **RESTful APIs** and **microservices**. I am dedicated to writing clean, maintainable code and following best practices like **SOLID principles** and **Clean Architecture** to create reliable and efficient server-side solutions.
+I'm a passionate **Backend Developer** with strong expertise in **Java 17** and the **Spring Boot** ecosystem. I specialize in designing and building scalable, high-performance **RESTful APIs** and **microservices**, while following best practices like the **SOLID principles** and **Clean Architecture**.
 
-- 🌱 I’m currently diving deeper into **containerization** with Docker and exploring **event-driven architectures**.
-- 💬 Ask me about **Spring Boot, System Design, RESTful APIs, or Microservices**.
-- 📫 How to reach me: **[Your Email Address]**
+- Currently working on **real-time RESTful APIs** using **Java 17**, **Spring Boot**, and **Spring Security**  
+- Focused on building **scalable endpoints**, handling **concurrent requests**, and ensuring **secure communication**  
+- Dedicated to writing **clean, maintainable code** with proper testing and exception handling  
 
 ---
 
-### 🔧 Languages and Tools
+### Languages and Tools
 
 #### Programming & Frameworks
 <p align="left">
@@ -65,7 +65,7 @@ I'm a passionate **Backend Developer** with a strong focus on modern **Java (up 
 
 ---
 
-### 🚀 My Projects
+### My Projects
 
 <table>
   <tr>
