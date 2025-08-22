@@ -46,9 +46,6 @@ I'm a passionate **Backend Developer** with strong expertise in **Java 17** and 
 
 #### Tools & Technologies
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
   </a>
