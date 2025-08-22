@@ -1,8 +1,7 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&color=0e75b6&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharun+C+R;I'm+a+Backend+Developer;specializing+in+Java+%26+Spring+Boot." alt="Typing SVG">
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm Tharun C R</h1>
+<h3 align="center">Java 17 Backend Developer | Spring Boot & RESTful APIs</h3>
+
+---
 
 ---
 
