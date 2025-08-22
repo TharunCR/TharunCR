@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Hacker Theme" width="1000"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&color=0e75b6&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharun+C+R;I'm+a+Backend+Developer;specializing+in+Java+%26+Spring+Boot." alt="Typing SVG">
   </a>
@@ -18,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Backend Developer** with a strong focus on the **Java** and **Spring Boot** ecosystem. My expertise lies in designing and building scalable, high-performance **RESTful APIs** and **microservices**. I am dedicated to writing clean, maintainable code and following best practices like **SOLID principles** and **Clean Architecture** to create reliable and efficient server-side solutions.
+I'm a passionate **Backend Developer** with a strong focus on modern **Java (up to version 17)** and the **Spring Boot** ecosystem. My expertise lies in designing and building scalable, high-performance **RESTful APIs** and **microservices**. I am dedicated to writing clean, maintainable code and following best practices like **SOLID principles** and **Clean Architecture** to create reliable and efficient server-side solutions.
 
 - 🌱 I’m currently diving deeper into **containerization** with Docker and exploring **event-driven architectures**.
 - 💬 Ask me about **Spring Boot, System Design, RESTful APIs, or Microservices**.
@@ -31,45 +27,45 @@ I'm a passionate **Backend Developer** with a strong focus on the **Java** and *
 #### Programming & Frameworks
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java 17" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
   </a>
 </p>
 
 #### Databases & Version Control
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flywaydb/flywaydb-icon.svg" alt="flyway" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/flyway/CC0224" alt="Flyway" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
 #### Tools & Technologies
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jetbrains_intellij/jetbrains_intellij-icon.svg" alt="intellij" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="swagger" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/>
   </a>
 </p>
 
