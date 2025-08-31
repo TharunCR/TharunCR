@@ -9,7 +9,7 @@ I'm a passionate **Backend Developer** with deep expertise in **Java 17** and th
 
 -   I build and maintain **real-time RESTful APIs** using **Java 17**, **Spring Boot**, and **Spring Security**.
 -   My focus is on engineering **scalable endpoints** capable of handling high concurrency while ensuring secure communication.
--   I am committed to writing **clean, maintainable code** with comprehensive testing and robust exception handling.
+-   I am committed to writing **clean, maintainable and optimized code** with comprehensive testing and robust exception handling.
 
 ---
 
