@@ -1,5 +1,5 @@
 <h1 align="center">Tharun C R</h1>
-<h3 align="center">Java 17 Backend Developer | Spring Boot | RESTful APIs  </h3>
+<h3 align="center">Java 17 Backend Developer | Spring Boot | REST APIs  </h3>
 
 ---
 
