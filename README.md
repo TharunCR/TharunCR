@@ -1,21 +1,27 @@
 <h1 align="center">Tharun C R</h1>
-<h3 align="center">Java 17 Backend Developer | Spring Boot | RESTful APIs  </h3>
+<h3 align="center">Java 17 Backend Developer | Spring Boot | RESTful APIs | AI & Data Analytics</h3>
 
 ---
 
-### About Me
+### 🚀 About Me
 
-I'm a passionate **Backend Developer** with deep expertise in **Java 17** and the **Spring Boot** ecosystem. I specialize in designing and building scalable, high-performance **RESTful APIs** and **microservices**, applying best practices like the **SOLID principles** and **Clean Architecture**.
+I'm a passionate **Backend Developer** with strong expertise in **Java 17**, **Spring Boot**, and modern architectural patterns. Along with backend engineering, I specialize in applying **AI** and **Data Analytics** to build smarter, data-driven systems.
 
--   I build and maintain **real-time RESTful APIs** using **Java 17**, **Spring Boot**, and **Spring Security**.
--   My focus is on engineering **scalable endpoints** capable of handling high concurrency while ensuring secure communication.
--   I am committed to writing **clean, maintainable and optimized code** with comprehensive testing and robust exception handling.
+I design and develop **real-time RESTful APIs** and **microservices** that are scalable, high-performance, and aligned with **SOLID principles** and **Clean Architecture**.
+
+I integrate **AI/ML models**, analytics pipelines, and feature-engineering workflows into backend services to enable intelligent decision-making inside applications.
+
+I work extensively with **data processing**, **ETL pipelines**, and **analytics workflows** using **NumPy**, **Pandas**, and Python-based ML ecosystems.
+
+I build backend systems capable of handling **high concurrency**, **secure communication**, and **low-latency data retrieval** using Spring Security, caching mechanisms, and asynchronous processing.
+
+I am committed to writing **clean, maintainable, and optimized code**, backed by automated testing, monitoring, and robust exception handling.
 
 ---
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
-#### Programming & Frameworks
+#### **Programming & Frameworks**
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -28,7 +34,7 @@ I'm a passionate **Backend Developer** with deep expertise in **Java 17** and th
   </a>
 </p>
 
-#### Databases & Version Control
+#### **Databases & Version Control**
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -41,10 +47,10 @@ I'm a passionate **Backend Developer** with deep expertise in **Java 17** and th
   </a>
 </p>
 
-#### Tools & Technologies
+#### **Tools & Technologies**
 <p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
@@ -56,27 +62,48 @@ I'm a passionate **Backend Developer** with deep expertise in **Java 17** and th
 
 ---
 
-### My Projects
+### 📂 My Projects
 
 <table>
   <tr>
     <td width="100%">
       <h3 align="left">
-        <a href="https://github.com/TharunCR/Vivanza.git">Vivanza - Event Management System</a>
+        <a href="https://github.com/TharunCR/Vivanza.git">Vivanza — Event Management System</a>
       </h3>
       <p>
-        A comprehensive Spring Boot application for managing events, featuring secure, role-based access control with <strong>JWT and Spring Security</strong>. Users can perform full CRUD operations on events through a secure RESTful API. Key features include database migrations with <strong>Flyway</strong>, API documentation via <strong>Swagger UI</strong>, global exception handling, and robust unit testing with <strong>JUnit & Jacoco</strong>.
+        A comprehensive Spring Boot application for managing events, featuring secure role-based access control using <strong>JWT</strong> and <strong>Spring Security</strong>.<br>
+        Users can perform full CRUD operations on events through secure REST APIs.<br><br>
+        <strong>Key Features:</strong>
+        <ul>
+          <li>JWT Authentication & RBAC</li>
+          <li>Database migrations with <strong>Flyway</strong></li>
+          <li>API documentation via <strong>Swagger UI</strong></li>
+          <li>Global exception handling</li>
+          <li>Unit testing using <strong>JUnit</strong> & coverage with <strong>Jacoco</strong></li>
+        </ul>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="100%">
       <h3 align="left">
-        <a href="https://github.com/TharunCR/Paycrest.git">Paycrest - Online Banking Application</a>
+        <a href="https://github.com/TharunCR/Paycrest.git">Paycrest — Online Banking Application</a>
       </h3>
       <p>
-        A secure online banking application built with Spring Boot, adhering to <strong>Clean Architecture</strong> and <strong>SOLID principles</strong>. The system implements secure user authentication and authorization using <strong>Spring Security</strong>. Users can manage accounts, view balances, and track transaction history. It ensures data consistency with <strong>@Transactional</strong>, utilizes <strong>Spring Data JPA/Hibernate</strong> for persistence, and secures passwords with <strong>BCrypt</strong> hashing.
+        A secure online banking system built with Spring Boot, following <strong>Clean Architecture</strong> and <strong>SOLID principles</strong>.<br>
+        The system provides secure user authentication and authorization using <strong>Spring Security</strong>.<br><br>
+        <strong>Highlights:</strong>
+        <ul>
+          <li>Account management & transaction tracking</li>
+          <li>Data consistency via <strong>@Transactional</strong></li>
+          <li>Persistence with <strong>Spring Data JPA / Hibernate</strong></li>
+          <li>Password hashing using <strong>BCrypt</strong></li>
+        </ul>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
